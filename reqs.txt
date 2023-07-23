@@ -1,0 +1,13 @@
+torch
+torchvision
+numpy
+pandas
+matplotlib
+opencv-python
+#scipy
+tqdm
+#scikit-image
+#tensorboard
+#sklearn
+argparse
+pytorch-msssim
